@@ -2,7 +2,7 @@
 
 原生 Android 分享链接解析与下载工具，支持抖音、快手及最多 20 条混合批量解析。无广告、无统计、无需登录，解析在应用内完成，不依赖远程解析服务。
 
-**Android 10+ · Java · 当前版本 1.4.2**
+**Android 10+ · Java · 当前版本 1.4.2 · [GPL-3.0](LICENSE)**
 
 [查看安装包发布](https://github.com/lufeey123/douyin-kuaishou-video-parser/releases) · [反馈问题](https://github.com/lufeey123/douyin-kuaishou-video-parser/issues)
 
@@ -140,4 +140,12 @@ https://github.com/gradle/gradle/tree/v8.9.0/gradle/wrapper
 
 第三方液态玻璃适配模块来自 [QmDeve/AndroidLiquidGlassView](https://github.com/QmDeve/AndroidLiquidGlassView)，遵循 MIT 许可，完整声明位于 [licenses/QmDeve-MIT.txt](licenses/QmDeve-MIT.txt)，修改记录见 [LIQUID-GLASS.md](LIQUID-GLASS.md)。当前界面采用静态半透明材质。
 
-项目自有源码尚未指定整体开源许可证；第三方 MIT 许可仅适用于对应第三方代码。仓库公开不代表对全部代码授予 MIT 授权。
+Copyright (C) 2026 lufeey123。
+
+除另有声明的第三方代码外，本项目采用 **GNU GPL v3.0（GPL-3.0-only）** 许可证，完整条款见 [LICENSE](LICENSE)。
+
+欢迎 Fork、修改和二次开发，也允许商用。分发原版或修改版时，请保留版权及许可声明；分发修改版须标明修改情况和相关日期，并遵守 GPL-3.0 提供对应源码等要求。仅在本地使用的修改无需公开，也不要求将修改提交回本仓库。
+
+欢迎注明原项目地址：https://github.com/lufeey123/douyin-kuaishou-video-parser 。这是一项署名建议，不是额外的许可证限制。本项目按许可证约定不提供担保。
+
+第三方代码保留各自的许可证和版权声明，包括上述 MIT 模块及 Apache-2.0 许可的 Gradle Wrapper。项目整体的 GPL-3.0 声明不替换这些第三方许可。
