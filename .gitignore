@@ -1,0 +1,22 @@
+.gradle/
+.gradle-user-home/
+local.properties
+**/build/
+.idea/
+*.iml
+.verify/
+.build-native/
+.build-tools/
+.build-research/
+
+# Local signing material and generated packages
+*.p12
+*.jks
+*.keystore
+*.apk
+*.aab
+key.properties
+keystore.properties
+.externalNativeBuild/
+.cxx/
+.DS_Store
